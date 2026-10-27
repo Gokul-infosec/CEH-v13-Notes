@@ -27,7 +27,7 @@ Focus: **VAPT, Red Team mindset, frameworks, and standards**.
 | 16 | [Hacking Wireless Networks](./CEH/Module-16-Hacking-Wireless-Networks.md) | ✅ |
 | 17 | [Hacking Mobile Platforms](./CEH/Module-17-Hacking-Mobile-Platforms.md) | ✅ |
 | 18 | [IoT and OT Hacking](./CEH/Module-18-IoT-and-OT-Hacking.md) | ✅ |
-| 19 | [Cloud Computing](./CEH/Module-19-Cloud-Computing.md) | ⬜ |
+| 19 | [Cloud Computing](./CEH/Module-19-Cloud-Computing.md) | ✅ |
 | 20 | [Cryptography](./CEH/Module-20-Cryptography.md) | ⬜ |
 
 Status: ⬜ Not started · 🟨 In progress · ✅ Reference complete
