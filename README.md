@@ -21,7 +21,7 @@ Focus: **VAPT, Red Team mindset, frameworks, and standards**.
 | 10 | [Denial-of-Service](./CEH/Module-10-Denial-of-Service.md) | ✅ |
 | 11 | [Session Hijacking](./CEH/Module-11-Session-Hijacking.md) | ✅ |
 | 12 | [Evading IDS, Firewalls, and Honeypots](./CEH/Module-12-Evading-IDS-Firewalls-and-Honeypots.md) | ✅ |
-| 13 | [Hacking Web Servers](./CEH/Module-13-Hacking-Web-Servers.md) | ⬜ |
+| 13 | [Hacking Web Servers](./CEH/Module-13-Hacking-Web-Servers.md) | ✅ |
 | 14 | [Hacking Web Applications](./CEH/Module-14-Hacking-Web-Applications.md) | ⬜ |
 | 15 | [SQL Injection](./CEH/Module-15-SQL-Injection.md) | ⬜ |
 | 16 | [Hacking Wireless Networks](./CEH/Module-16-Hacking-Wireless-Networks.md) | ⬜ |
