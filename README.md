@@ -14,7 +14,7 @@ Focus: **VAPT, Red Team mindset, frameworks, and standards**.
 | 03 | [Scanning Networks](./CEH/Module-03-Scanning-Networks.md) | ✅ |
 | 04 | [Enumeration](./CEH/Module-04-Enumeration.md) | ✅ |
 | 05 | [Vulnerability Analysis](./CEH/Module-05-Vulnerability-Analysis.md) | ✅ |
-| 06 | [System Hacking](./CEH/Module-06-System-Hacking.md) | ⬜ |
+| 06 | [System Hacking](./CEH/Module-06-System-Hacking.md) | ✅ |
 | 07 | [Malware Threats](./CEH/Module-07-Malware-Threats.md) | ⬜ |
 | 08 | [Sniffing](./CEH/Module-08-Sniffing.md) | ⬜ |
 | 09 | [Social Engineering](./CEH/Module-09-Social-Engineering.md) | ⬜ |
