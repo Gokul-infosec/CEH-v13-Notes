@@ -12,7 +12,7 @@ Focus: **VAPT, Red Team mindset, frameworks, and standards**.
 | 01 | [Introduction to Ethical Hacking](./CEH/Module-01-Introduction-to-Ethical-Hacking.md) | ⬜ |
 | 02 | [Footprinting and Reconnaissance](./CEH/Module-02-Footprinting-and-Reconnaissance.md) | ✅ |
 | 03 | [Scanning Networks](./CEH/Module-03-Scanning-Networks.md) | ✅ |
-| 04 | [Enumeration](./CEH/Module-04-Enumeration.md) | ⬜ |
+| 04 | [Enumeration](./CEH/Module-04-Enumeration.md) | ✅ |
 | 05 | [Vulnerability Analysis](./CEH/Module-05-Vulnerability-Analysis.md) | ⬜ |
 | 06 | [System Hacking](./CEH/Module-06-System-Hacking.md) | ⬜ |
 | 07 | [Malware Threats](./CEH/Module-07-Malware-Threats.md) | ⬜ |
