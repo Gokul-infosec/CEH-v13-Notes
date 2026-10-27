@@ -32,12 +32,6 @@ Focus: **VAPT, Red Team mindset, frameworks, and standards**.
 
 Status: ⬜ Not started · 🟨 In progress · ✅ Reference complete
 
-## Frameworks
-- [MITRE ATT&CK](./Frameworks/mitre-attack.md)
-
-## Regulations
-- [PCI DSS](./Regulations/pci-dss.md)
-
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/gokulcyber  
 - Email: gokulnath3d@gmail.com
