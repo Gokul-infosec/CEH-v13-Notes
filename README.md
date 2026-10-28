@@ -3,7 +3,7 @@
 My **personal notes** from CEH v13 (Red Team Hacker Academy), written in my own words.  
 Focus: **VAPT, Red Team mindset, frameworks, and standards**.
 
-> ⚠️ No EC-Council proprietary content or exam material. Only my summaries and diagrams.
+> ⚠️ No EC-Council proprietary content or exam material. Only my summaries
 
 ## Progress
 
